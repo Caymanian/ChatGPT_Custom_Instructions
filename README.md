@@ -40,3 +40,12 @@ To use these, just copy the block of text into the Custom Instructions in your C
 Latent Space
 	Content (knowledge)
 	Capabilities (theory of mind, reasoning, problem solving)
+
+## ChatGBT Version and Style
+
+This will determine if you will use the latest model of GBT (Version 4 at the time of editing) and if you are going to use plugins, what type of plugins should you use.
+
+- Version: What version will you use
+- Function: Choose Between Default, Browse with Bing, Advanced Data Analysis, or Plugins
+- Plugins: Use Plugins that will contribute to the task at hand
+
